@@ -1,9 +1,22 @@
+html *
+{
+    font-family: 'Nunito', sans-serif;
+    background-color: #E8E8E9;
+    text-align: center;
+    color: #E01A4F;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 body {
     margin: 60px auto;
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Montserrat';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -11,6 +24,7 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+    color: #999;
 }
 a {
     text-decoration: none;
@@ -18,18 +32,21 @@ a {
 }
 a:hover {
     text-decoration: underline;
+    color: #F9C22E;
 }
 h1 {
-    font-size: 3em;
-    font-family:'Montserrat';
+    font-size: 2em;
 }
-p {
+h2 {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
+}
+p {
+    font-size: 1.1em;
+    line-height: 1.2em;
 }
 footer {
-    border-top: 1px solid #d5d5d5;
+
     font-size: .8em;
 }
 
