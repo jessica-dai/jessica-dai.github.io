@@ -2,8 +2,25 @@ html *
 {
     font-family: 'Nunito', sans-serif;
     background-color: #E8E8E9;
-    text-align: center;
+    /*text-align: center;*/
     color: #E01A4F;
+}
+
+.container {
+  height: 80%;
+  width: 630px;
+  text-align: center;
+  position: absolute;
+  top: 10%;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  border-radius: 4px;
+}
+
+.container-body {
+  padding: 0 20px;
+  text-align: left;
 }
 
 main {
@@ -16,12 +33,14 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-nav ul, footer ul {
+footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    align-items: center;
+    text-align: center;
 }
-nav ul li, footer ul li {
+footer ul li {
     display: inline;
     margin-right: 20px;
     color: #999;
@@ -36,25 +55,19 @@ a:hover {
 }
 h1 {
     font-size: 2em;
+    color:#999;
 }
 h2 {
     font-size: 1.5em;
     line-height: 1.4em;
+    color:#999;
 }
 p {
     font-size: 1.1em;
-    line-height: 1.2em;
+    line-height: 1.1em;
 }
 footer {
 
-    font-size: .8em;
-}
+    font-size: .9em;
 
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
-}
-
-ul.posts li {
-    list-style: none;
 }
