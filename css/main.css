@@ -1,9 +1,8 @@
 html *
 {
     font-family: 'Nunito', sans-serif;
-    background-color: #E8E8E9;
-    /*text-align: center;*/
-    color: #E01A4F;
+    background-color: #ECECED;
+    color: #F15946;
 }
 
 .container {
@@ -43,11 +42,9 @@ footer ul {
 footer ul li {
     display: inline;
     margin-right: 20px;
-    color: #999;
 }
 a {
     text-decoration: none;
-    color: #999;
 }
 a:hover {
     text-decoration: underline;
@@ -55,16 +52,15 @@ a:hover {
 }
 h1 {
     font-size: 2em;
-    color:#999;
 }
 h2 {
     font-size: 1.5em;
     line-height: 1.4em;
-    color:#999;
 }
 p {
     font-size: 1.1em;
     line-height: 1.1em;
+    color: #404040;
 }
 footer {
 
