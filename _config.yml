@@ -1,9 +1,8 @@
 # site
 title: Jessica Dai
 baseurl: ""
-# url: "http://jessicadai.com"
+url: "http://jessicadai.com"
 favicon: "/assets/sample/ico.png"
-# g_analytics: UA-12345678-1
 
 # bio
 header: jessica dai
