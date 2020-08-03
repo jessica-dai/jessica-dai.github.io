@@ -1,0 +1,26 @@
+# site
+title: Jessica Dai
+baseurl: ""
+# url: "http://jessicadai.com"
+favicon: "/assets/sample/ico.png"
+# g_analytics: UA-12345678-1
+
+# bio
+header: jessica dai
+# desc: hello! I study computer science at brown.
+
+# posts
+date_format: "%Y"
+post_title: Story
+post_date: Year
+post_cat: Genre
+
+# post detail
+prev-next: true
+
+# build settings
+markdown: kramdown
+# theme: louie
+exclude:
+  - Gemfile
+  - Gemfile.lock
