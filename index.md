@@ -4,4 +4,3 @@
 
 layout: default
 ---
-hello! I study computer science at brown.
