@@ -6,13 +6,7 @@ favicon: "/assets/sample/ico.png"
 
 # bio
 header: Jessica Dai
-desc: >
-  <p>Hello! I study computer science at Brown. Much of my work so far has centered on algorithmic fairness, though I&#39;m also excited about robustness and interpretability in machine learning.</p>
-  <p>Currently, I&#39;m at <a href="arthur.ai" target="_blank">Arthur AI</a> on a gap semester, working on observability &amp; model monitoring for safe and responsible ML. This past summer, I was an RA for <a href="http://zacklipton.com/" target="_blank">Prof. Zack Lipton</a> where I explored macro-level implications of fair (algorithmic) decisionmaking; I&#39;ve also worked with <a href="http://sarahmbrown.org/" target="_blank">Prof. Sarah Brown</a> on questions of fairness in relation to distribution shift.</p>
-  <p>At Brown, I pioneered our Ethics TA program, which embeds relevant ethics &amp; society content in the core content of individual CS courses. I was one of two Head ETAs when the program began summer 2019 with five classes participating in the program for fall 2019; the program doubled in spring 2020 with 20+ ETA hires in ten participating courses.</p>
-  <p>I was a Head TA for Machine Learning (cs1420 s&#39;20). I have also TAed for Deep Learning (cs1470 f&#39;19) and Data Structures &amp; Algorithms (cs0160 s&#39;19).</p>
-  <p>From April to July 2020, I co-hosted <a href="https://reboothq.substack.com/about" target="_blank">Reboot</a>, a series of talks with authors of recent work about technology, power, and the future -- highlights include Jenny Odell, Ken Liu, and Anna Wiener. Some of my personal writing is <a href="https://reading.supply/@jessica" target="_blank">here</a>.</p>
-
+# desc: >
 # posts
 # date_format: "%Y"
 # post_title: thing
