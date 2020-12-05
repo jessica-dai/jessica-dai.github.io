@@ -1,6 +1,6 @@
 .bio {
   max-width: 500px;
-  margin-bottom: 50px;
+  // margin-bottom: 50px;
 }
 
 .bio__header {
@@ -16,9 +16,20 @@
   }
 }
 
+.bio__tabs {
+  margin-bottom: 20px;
+
+  a {
+  	&:hover {
+  		text-decoration: none;
+      font-weight:600
+  	}
+  }
+}
+
 .bio__social {
   margin: 0;
-  margin-top: 10px;
+  margin-top: 50px;
   padding: 0;
   list-style: none;
 }
