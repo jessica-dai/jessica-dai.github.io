@@ -4,7 +4,7 @@
 
 layout: default
 ---
-![my-face]({{ site.url }} /assets/face.jpg){:class="img-responsive"}{:width="200"}
+![my-face]({{ site.url }}/assets/face.jpg){:class="img-responsive"}{:width="200"}
 
 Hello! I study computer science at Brown. Much of my work so far has centered on algorithmic fairness, though I'm also excited about robustness and interpretability in machine learning.
 
