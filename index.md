@@ -4,8 +4,6 @@
 
 layout: default
 ---
-![my-face]({{ site.url }}/assets/face.jpg){:class="img-responsive"}{:width="200"}
-
 Hello! I study computer science at Brown. Much of my work so far has centered on algorithmic fairness, though I'm also excited about robustness and interpretability in machine learning.
 
 Currently, I'm at [Arthur AI](http://www.arthur.ai){:target="_blank"} on a gap semester, working on observability & model monitoring for safe and responsible ML. This past summer, I was an RA for [Prof. Zachary Lipton](http://zacklipton.com/){:target="_blank"} where I explored macro-level implications of fair (algorithmic) decisionmaking; I've also worked with [Prof. Sarah Brown](http://sarahmbrown.org/){:target="_blank"} on questions of fairness in relation to distribution shift.
