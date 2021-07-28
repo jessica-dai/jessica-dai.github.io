@@ -5,7 +5,7 @@
 layout: default
 ---
 
-I've had the privilege of working with Professors Hima Lakkaraju (Harvard), Zachary Lipton (CMU), and Sarah M. Brown (URI).  Generally curious about this mostly-broken thing we call machine learning.
+I've had the privilege of working with Professors Hima Lakkaraju (Harvard), Steve Bach (Brown), Zachary Lipton (CMU), and Sarah M. Brown (URI).  Generally curious about this mostly-broken thing we call machine learning.
 
 #### Conference papers
 
