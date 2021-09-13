@@ -15,4 +15,6 @@ in Women in Machine Learning Workshop at NeurIPS 2020 (**contributed talk**). [P
 
 #### Workshop papers
 
+- Jessica Dai, Kweku Kwegyir-Aggrey, John P. Dickerson, and Keegan Hines. *Enabling Flexible Downstream Fairness with Geometric Repair.* In Workshop on Responsible AI at KDD 2021. [PDF](https://sites.google.com/view/responsible-ai-kdd2021/accepted-papers){:target="_blank"}
+- Jessica Dai, Sohini Upadhyay, Stephen H. Bach, Himabindu Lakkaraju. *What will it take to generate fairness-preserving explanations?* In ICML Workshop on Theoretic Foundation, Criticism, and Application Trend of Explainable AI 2021. [PDF](https://arxiv.org/pdf/2106.13346.pdf){:target="_blank"} [Poster](https://github.com/ICML2021-XAI/Summary-Slides/blob/main/What%20will%20it%20take%20to%20generate%20fairness-preserving%20explanations.pdf){:target="_blank"}
 - Jessica Dai and Sarah M. Brown. *Label Bias, Label Shift: Fair Machine Learning with Unreliable Labels.* In Workshop on Consequential Decisions in Dynamic Environments at NeurIPS 2020; in Women in Machine Learning Workshop at NeurIPS 2020. [PDF](https://dynamicdecisions.github.io/assets/pdfs/29.pdf){:target="_blank"}
