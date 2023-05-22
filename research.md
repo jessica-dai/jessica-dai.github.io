@@ -10,7 +10,7 @@ much love to everyone I've gotten to work with :)
 #### Conference papers
 
 - Jessica Dai, Sohini Upadhyay, Ulrich Aivodji, Stephen H. Bach, Himabindu Lakkaraju. **Fairness via Explanation Quality:
-Evaluating Disparities in the Quality of Post hoc Explanations.** In AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES) 2022. [PDF](https://arxiv.org/abs/2205.07277){:target="_blank"}
+Evaluating Disparities in the Quality of Post hoc Explanations.**{: .emph} In AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES) 2022. [PDF](https://arxiv.org/abs/2205.07277){:target="_blank"}
 - Jessica Dai, Sina Fazelpour, Zachary C. Lipton. **Fair Machine Learning Under Partial Compliance.** In AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES) 2021 (**oral presentation**). Previously in Workshop on Consequential Decisions in Dynamic Environments at NeurIPS 2020 (**contributed talk**); in Workshop on Machine Learning for Economic Policy at NeurIPS 2020;
 in Women in Machine Learning Workshop at NeurIPS 2020 (**contributed talk**). [PDF](https://arxiv.org/abs/2011.03654){:target="_blank"} [Video](https://slideslive.com/38942278/fair-machine-learning-under-partial-compliance){:target="_blank"}
 
