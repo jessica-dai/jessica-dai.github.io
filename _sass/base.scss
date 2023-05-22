@@ -11,10 +11,10 @@ $font__line-height: 1.2;
 // colors
 $color__black:      #81667A;
 $color__gray:       #eeeeee;
-$color__beige:      #81667A;
+$color__beige:      #DBE9EE;
 $color__highlight:  #f9e6f4;
-$color__link:       #f9e6f4;
-$color__linkhover:  #f9e6f4;
+$color__link:       #f46036;
+$color__linkhover:  #a53f2b;
 
 @mixin media-query($device) {
   @media screen and (min-width: $device) {
