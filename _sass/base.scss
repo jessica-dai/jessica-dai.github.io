@@ -14,7 +14,7 @@ $color__gray:       #eeeeee;
 $color__beige:      #F2F7F8;
 $color__highlight:  #f9e6f4;
 $color__link:       #f46036;
-$color__linkhover:  #a53f2b;
+$color__linkhover:  #DD4DA1;
 
 @mixin media-query($device) {
   @media screen and (min-width: $device) {
