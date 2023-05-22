@@ -72,6 +72,10 @@ body {
   line-height: $font__line-height;
 }
 
+.emph {
+  color: $color__linkhover;
+}
+
 .container {
   max-width: 1200px;
   margin: 0 25px;
