@@ -3,10 +3,11 @@ $on-laptop:         800px !default;
 
 // typography
 @import url('https://fonts.googleapis.com/css?family=Inconsolata:400,700');
-@import url("https://fonts.googleapis.com/css2?family=Quattrocento+Sans&family=Wix+Madefor+Text&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quattrocento+Sans&family=Wix+Madefor+Text&family=Abhaya+Libre&display=swap");
 $inconsolata:       'Inconsolata', monospace;
 $quat:              'Quattrocento Sans', sans-serif;
 $wix:               'Wix Madefor Text', sans-serif;
+$abhaya:            'Abhaya Libre', serif;
 $font__size:        14.5px;
 $font__weight:      400;
 $font__line-height: 1.5;
@@ -68,7 +69,7 @@ body {
   margin: 25px 0;
   padding: 0;
   background: $color__beige;
-  font-family: $wix;
+  font-family: $abhaya;
   font-size: $font__size;
   font-weight: $font__weight;
   line-height: $font__line-height;
