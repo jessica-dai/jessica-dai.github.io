@@ -5,12 +5,12 @@
 layout: default
 ---
 
-much love to everyone I've gotten to work with 
+much love to everyone I've gotten to work with 🙂
 
 ### Preprints
 
-- Jessica Dai, Paula Gradu, Chris Harshaw (_alpha order_). **Clip-OGD: An Experimental Design for Adaptive Neyman Allocation in Sequential Experiments.**{: .emph} May 2023. [PDF](https://arxiv.org/abs/2305.17187)
-- Jessica Dai, Bailey Flanigan, Nika Haghtalab, Meena Jagadeesan, Chara Podimata. **Can Probabilistic Feedback Drive User Impacts in Online Platforms?**{: .emph} [PDF forthcoming]()
+- Jessica Dai, Paula Gradu, Chris Harshaw _(alpha order)_. **Clip-OGD: An Experimental Design for Adaptive Neyman Allocation in Sequential Experiments.**{: .emph} May 2023. [PDF](https://arxiv.org/abs/2305.17187)
+- Jessica Dai, Bailey Flanigan, Nika Haghtalab, Meena Jagadeesan, Chara Podimata _(alpha order)_. **Can Probabilistic Feedback Drive User Impacts in Online Platforms?**{: .emph} _PDF forthcoming._
 
 ### Conference papers
 
