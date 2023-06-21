@@ -18,10 +18,10 @@ $color__black:      #81667A;
 $color__gray:       #eeeeee;
 $color__beige:      #F2F7F8;
 $color__highlight:  #f9e6f4;
-$color__emph:       #f46036;   // orange
+$color__emph:       #CC3A00;      // dark orange
 $color__link:       #5967B1;      // blue
 // $color__linkhover:  #DD4DA1;   // pink
-$color__linkhover:  #B50356;      // dark red
+$color__linkhover:  #B50356;      // dark pink
 
 @mixin media-query($device) {
   @media screen and (min-width: $device) {
