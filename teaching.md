@@ -5,6 +5,8 @@
 layout: default
 ---
 
+### Teaching at Brown
+
 **Socially Responsible Computing (Head TA)**, May 2019-May 2020.
 I pioneered our SRC TA program, which embeds relevant ethics & society content in the core content of individual CS courses. I was one of two Head STAs when the program began summer 2019 with five classes participating in the program for fall 2019; the program doubled in spring 2020 with 20+ STA hires in ten participating courses.
 I wrote a reflection on the program's first year [here](http://www.theindy.org/2235){:target="_blank"}.
