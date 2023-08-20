@@ -2,12 +2,13 @@
 layout: default
 ---
 
-uhh my non-academic writing is sort of all over the place. Here are a few pieces I like: 
+My non-academic writing is a little all over the place. Here are a few pieces I like: 
 
 #### Tech
 
-- [a reflection on the first year of brown's socially responsible computing program](http://www.theindy.org/article/2235){:target="_blank"}
-- [a piece on palantir's shady recruiting](http://www.theindy.org/article/1516){:target="_blank"}
+- [The Artificiality of Alignment](https://joinreboot.org/p/alignment){:target="_blank"}
+- [The Paradox of Socially Responsible Computing](http://www.theindy.org/article/2235){:target="_blank"}
+- [A Recruit Reads the Fine Print](http://www.theindy.org/article/1516){:target="_blank"}
 
 #### Personal
 
