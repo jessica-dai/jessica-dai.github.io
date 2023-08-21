@@ -6,9 +6,9 @@ My non-academic writing is a little all over the place. Here are a few pieces I 
 
 #### Tech
 
-- [The Artificiality of Alignment](https://joinreboot.org/p/alignment){:target="_blank"}
-- [The Paradox of Socially Responsible Computing](http://www.theindy.org/article/2235){:target="_blank"}
-- [A Recruit Reads the Fine Print](http://www.theindy.org/article/1516){:target="_blank"}
+- [The Artificiality of Alignment](https://joinreboot.org/p/alignment){:target="_blank"} for Reboot
+- [The Paradox of Socially Responsible Computing](http://www.theindy.org/article/2235){:target="_blank"} for The College Hill Independent
+- [A Recruit Reads the Fine Print](http://www.theindy.org/article/1516){:target="_blank"} for The College Hill Independent
 
 #### Personal
 
