@@ -11,7 +11,7 @@ layout: default
 
 #### Personal
 
-- ["on/in mirrors"](https://letterstomyfriends.substack.com/p/mirrors){:target="_blank"}, on growing up with chinese dance — [SINOSTORIES] (https://sinostories.com/){:target="_blank"} (2022)
+- ["on/in mirrors"](https://letterstomyfriends.substack.com/p/mirrors){:target="_blank"}, on growing up with chinese dance — [SINOSTORIES](https://sinostories.com/){:target="_blank"} (2022)
 - ["tasting menu"](https://letterstomyfriends.substack.com/p/tastingmenu){:target="_blank"} — [SINθ Magazine](https://sinetheta.net/index.html){:target="_blank"} (2022)
 - [on visiting grad schools](https://letterstomyfriends.substack.com/p/academia){:target="_blank"} (2022)
 - [three flash pieces](https://issuu.com/visions.brown/docs/spring2021layoutfinalsingles){:target="_blank"} — VISIONS, brown's asian art mag (2021)
