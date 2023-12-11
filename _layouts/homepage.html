@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  {% include head.html %}
+
+  <body>
+    <div class="container">
+      {% include header.html %}
+      <div class="bio__photo">
+        <img src="/assets/face.JPG", style="width:118px;height:160px">
+        <p><small><i>POV: cherrypicking!</i> 🍒</small></p>
+      </div>
+      <body style="width: 60%">
+      {{ content }}
+      </body>
+      {% include socials.html %}
+    </div>
+  </body>
+
+</html>
