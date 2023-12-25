@@ -6,7 +6,7 @@ layout: default
 #### Tech
 
 - [The Artificiality of Alignment](https://joinreboot.org/p/alignment){:target="_blank"} — Reboot (2023)
-- [The Paradox of Socially Responsible Computing](http://www.theindy.org/article/2235){:target="_blank"} — The College Hill Independent (2019)
+- [The Paradox of Socially Responsible Computing](http://www.theindy.org/article/2235){:target="_blank"} — The College Hill Independent (2020)
 - [A Recruit Reads the Fine Print](http://www.theindy.org/article/1516){:target="_blank"} — The College Hill Independent (2018)
 
 #### Personal
