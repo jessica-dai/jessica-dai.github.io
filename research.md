@@ -13,7 +13,7 @@ much love to everyone I've gotten to work with 🙂
 
 ### Conference papers
 
-- Jessica Dai, Paula Gradu, Chris Harshaw _(alpha order)_. **Clip-OGD: An Experimental Design for Adaptive Neyman Allocation in Sequential Experiments.**{: .emph} May 2023. NeurIPS 2023 (**spotlight**). [PDF](https://arxiv.org/abs/2305.17187){:target="_blank"} 
+- Jessica Dai, Paula Gradu, Chris Harshaw _(alpha order)_. **Clip-OGD: An Experimental Design for Adaptive Neyman Allocation in Sequential Experiments.**{: .emph} NeurIPS 2023 (**spotlight**). [PDF](https://arxiv.org/abs/2305.17187){:target="_blank"} 
 - Jessica Dai, Sohini Upadhyay, Ulrich Aivodji, Stephen H. Bach, Himabindu Lakkaraju. **Fairness via Explanation Quality:
 Evaluating Disparities in the Quality of Post hoc Explanations.**{: .emph} AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES) 2022. [PDF](https://arxiv.org/abs/2205.07277){:target="_blank"} 
 - Jessica Dai, Sina Fazelpour, Zachary C. Lipton. **Fair Machine Learning Under Partial Compliance.**{: .emph} AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES) 2021 (**oral presentation**). Previously in Workshop on Consequential Decisions in Dynamic Environments at NeurIPS 2020 (**contributed talk**); Workshop on Machine Learning for Economic Policy at NeurIPS 2020;
