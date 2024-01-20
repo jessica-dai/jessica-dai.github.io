@@ -7,12 +7,9 @@ layout: default
 
 much love to everyone I've gotten to work with 🙂
 
-### Preprints
-
-- Jessica Dai, Bailey Flanigan, Nika Haghtalab, Meena Jagadeesan, Chara Podimata _(alpha order)_. **Can Probabilistic Feedback Drive User Impacts in Online Platforms?**{: .emph} [PDF](https://arxiv.org/abs/2401.05304){:target="_blank"}
-
 ### Conference papers
 
+- Jessica Dai, Bailey Flanigan, Nika Haghtalab, Meena Jagadeesan, Chara Podimata _(alpha order)_. **Can Probabilistic Feedback Drive User Impacts in Online Platforms?**{: .emph} AISTATS 2024. [PDF](https://arxiv.org/abs/2401.05304){:target="_blank"}
 - Jessica Dai, Paula Gradu, Chris Harshaw _(alpha order)_. **Clip-OGD: An Experimental Design for Adaptive Neyman Allocation in Sequential Experiments.**{: .emph} NeurIPS 2023 (**spotlight**). [PDF](https://arxiv.org/abs/2305.17187){:target="_blank"} 
 - Jessica Dai, Sohini Upadhyay, Ulrich Aivodji, Stephen H. Bach, Himabindu Lakkaraju. **Fairness via Explanation Quality:
 Evaluating Disparities in the Quality of Post hoc Explanations.**{: .emph} AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES) 2022. [PDF](https://arxiv.org/abs/2205.07277){:target="_blank"} 
