@@ -5,15 +5,20 @@ $on-laptop:         800px !default;
 @import url('https://fonts.googleapis.com/css?family=Inconsolata:400,700');
 @import url("https://fonts.googleapis.com/css2?family=Quattrocento+Sans&family=Wix+Madefor+Text&family=Abhaya+Libre&family=Spectral:wght@300&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Piazzolla:ital,opsz,wght@0,8..30,100..900;1,8..30,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Gentium+Plus:ital,wght@0,400;0,700;1,400;1,700&family=Piazzolla:ital,opsz,wght@0,8..30,100..900;1,8..30,100..900&display=swap');
 $inconsolata:       'Inconsolata', monospace;
 $quat:              'Quattrocento Sans', sans-serif;
 $wix:               'Wix Madefor Text', sans-serif;
 $abhaya:            'Abhaya Libre', serif;
 $spectral:          'Spectral', serif;
 $piazzolla:         'Piazzolla', serif;
-$font__size:        14.5px;
+$cormorant:         'Cormorant Garamond', serif;
+$gentium:           'Gentium Plus', serif;
+$font__size:        15px;
 $font__weight:      400;
 $font__line-height: 1.5;
+
+$body__font:        $gentium;
 
 // colors
 $color__black:      #81667A;
@@ -72,8 +77,7 @@ body {
   margin: 25px 0;
   padding: 0;
   background: $color__beige;
-  // font-family: $spectral;
-  font-family: $piazzolla;
+  font-family: $body__font; 
   font-size: $font__size;
   font-weight: $font__weight;
   line-height: $font__line-height;
