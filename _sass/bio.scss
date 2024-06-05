@@ -5,6 +5,7 @@
 
 .bio__header {
   margin-bottom: 20px;
+  // font-style: italic;
   font-weight: 700;
 
   a {
@@ -18,10 +19,11 @@
 
 .bio__tabs {
   margin-bottom: 20px;
+  font-style: italic;
 
   a {
+    text-decoration: none;
   	&:hover {
-  		text-decoration: none;
       font-weight:600
   	}
   }
@@ -32,6 +34,11 @@
   margin-top: 50px;
   padding: 0;
   list-style: none;
+  font-style:italic;
+
+  a{
+    text-decoration:none;
+  }
 }
 
 .bio__photo {
