@@ -9,7 +9,7 @@ much love to everyone I've gotten to work with 🙂
 
 ### Conference papers
 
-- Jessica Dai. **Beyond Personhood: Agency, Accountability, and the Limits of Anthropomorphic Ethical Analysis**{: .emph}. _Position Paper,_ ICML 2024 (**oral**). [[PDF]](https://arxiv.org/abs/2404.13861){:target="_blank"} [[Poster]](https://www.jessicad.ai/pdfs/agency_poster.pdf){:target="_blank"}
+- Jessica Dai. **Beyond Personhood: Agency, Accountability, and the Limits of Anthropomorphic Ethical Analysis**{: .emph}. _Position Paper,_ ICML 2024 (**oral**). [[PDF]](https://arxiv.org/abs/2404.13861){:target="_blank"} [[Poster]](https://www.jessicad.ai/pdfs/agency_poster.pdf){:target="_blank"} [[Talk]](https://icml.cc/virtual/2024/oral/35574){:target="_blank"}
 - Jessica Dai, Bailey Flanigan, Nika Haghtalab, Meena Jagadeesan, Chara Podimata _(alphabetical order)_. **Can Probabilistic Feedback Drive User Impacts in Online Platforms?**{: .emph} AISTATS 2024. [[PDF]](https://arxiv.org/abs/2401.05304){:target="_blank"} [[Poster]](https://www.jessicad.ai/pdfs/probfeedback_poster.pdf){:target="_blank"}
 - Jessica Dai, Paula Gradu, Chris Harshaw _(alphabetical order)_. **Clip-OGD: An Experimental Design for Adaptive Neyman Allocation in Sequential Experiments.**{: .emph} NeurIPS 2023 (**spotlight**). [[PDF]](https://arxiv.org/abs/2305.17187){:target="_blank"} [[INFORMS Slides]](https://www.jessicad.ai/pdfs/clip-ogd__informs.pdf){:target="_blank"}
 - Jessica Dai, Sohini Upadhyay, Ulrich Aivodji, Stephen H. Bach, Himabindu Lakkaraju. **Fairness via Explanation Quality:
