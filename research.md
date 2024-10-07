@@ -5,7 +5,9 @@
 layout: default
 ---
 
-much love to everyone I've gotten to work with 🙂
+I’m interested in how individuals, groups, and AI systems might interact with each other, and the \{statistical, algorithmic, ...\} questions that such interactions raise. I think of theory as (i) a means to provide tools for addressing such problems, and (ii) a language for understanding these ideas at a conceptual level. I’m especially excited when technical work can be informed by perspectives from sociology, political theory, philosophy, and other humanistic disciplines. 
+
+_much love to everyone I've gotten to work with_ 🙂
 
 ### Conference papers
 
