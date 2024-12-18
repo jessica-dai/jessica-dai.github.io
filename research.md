@@ -11,6 +11,7 @@ _much love to everyone I've gotten to work with_ 🙂
 
 ### Manuscripts
 
+- Jessica Dai, Paula Gradu, Inioluwa Deborah Raji, Benjamin Recht.  **From Individual Experience to Collective Evidence: An Incident-Based Framework for Identifying Systemic Discrimination**{: .emph}. [[PDF]](https://www.jessicad.ai/pdfs/incidents-draft.pdf){:target="_blank"}
 - Jessica Dai, Nika Haghtalab, Eric Zhao _(alphabetical order)_. **Learning With Multi-Group Guarantees For Clusterable Subpopulations**{: .emph}. [[PDF]](https://arxiv.org/abs/2410.14588v2){:target="_blank"}
 
 ### Conference papers
