@@ -13,6 +13,5 @@ layout: default
 
 - ["on/in mirrors"](https://letterstomyfriends.substack.com/p/mirrors){:target="_blank"}, on growing up with chinese dance — [_SINOSTORIES_](https://sinostories.com/){:target="_blank"} (2022)
 - ["tasting menu"](https://letterstomyfriends.substack.com/p/tastingmenu){:target="_blank"} — [_SINθ Magazine_](https://sinetheta.net/index.html){:target="_blank"} (2022)
-- [on visiting grad schools](https://letterstomyfriends.substack.com/p/academia){:target="_blank"} (2022)
-- [three flash pieces](https://issuu.com/visions.brown/docs/spring2021layoutfinalsingles){:target="_blank"} — _VISIONS_, brown's asian art mag (2021)
-- [a review of *a tale for the time being* by ruth ozeki](https://reading.supply/@jessica/some-comfort-for-the-time-being-64k4Ml){:target="_blank"} (2020)
+
+_I also maintain an approximately-annual personal newsletter that, thus far, has been primarily about my experience in grad school. I've written about [visiting schools](https://letterstomyfriends.substack.com/p/academia){:target="_blank"} and the middles of years [1](https://letterstomyfriends.substack.com/p/salad-days){:target="_blank"}, [2](https://letterstomyfriends.substack.com/p/sophomoric){:target="_blank"}, and [3](https://letterstomyfriends.substack.com/p/how-to-have-a-good-time-in-a-phd){:target="_blank"}._
