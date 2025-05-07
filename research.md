@@ -9,13 +9,10 @@ I’m interested in how individuals, groups, and AI systems might interact with 
 
 _much love to everyone I've gotten to work with_ 🙂
 
-### Manuscripts
-
-- Jessica Dai, Paula Gradu, Inioluwa Deborah Raji, Benjamin Recht.  **From Individual Experience to Collective Evidence: A Reporting-Based Framework for Identifying Systemic Harms**{: .emph}. [[PDF]](https://arxiv.org/abs/2502.08166){:target="_blank"}
-- Jessica Dai, Nika Haghtalab, Eric Zhao _(alphabetical order)_. **Learning With Multi-Group Guarantees For Clusterable Subpopulations**{: .emph}. [[PDF]](https://arxiv.org/abs/2410.14588v2){:target="_blank"}
-
 ### Conference papers
 
+- Jessica Dai, Paula Gradu, Inioluwa Deborah Raji, Benjamin Recht.  **From Individual Experience to Collective Evidence: A Reporting-Based Framework for Identifying Systemic Harms**{: .emph}. ICML 2025. [[PDF]](https://arxiv.org/abs/2502.08166){:target="_blank"}
+- Jessica Dai, Nika Haghtalab, Eric Zhao _(alphabetical order)_. **Learning With Multi-Group Guarantees For Clusterable Subpopulations**{: .emph}. ICML 2025. [[PDF]](https://arxiv.org/abs/2410.14588v2){:target="_blank"}
 - Jessica Dai. **Beyond Personhood: Agency, Accountability, and the Limits of Anthropomorphic Ethical Analysis**{: .emph}. _Position Paper,_ ICML 2024 (**oral**). [[PDF]](https://arxiv.org/abs/2404.13861){:target="_blank"} [[Poster]](https://www.jessicad.ai/pdfs/agency_poster.pdf){:target="_blank"} [[Talk]](https://icml.cc/virtual/2024/oral/35574){:target="_blank"}
 - Jessica Dai, Bailey Flanigan, Nika Haghtalab, Meena Jagadeesan, Chara Podimata _(alphabetical order)_. **Can Probabilistic Feedback Drive User Impacts in Online Platforms?**{: .emph} AISTATS 2024. [[PDF]](https://arxiv.org/abs/2401.05304){:target="_blank"} [[Poster]](https://www.jessicad.ai/pdfs/probfeedback_poster.pdf){:target="_blank"}
 - Jessica Dai, Paula Gradu, Chris Harshaw _(alphabetical order)_. **Clip-OGD: An Experimental Design for Adaptive Neyman Allocation in Sequential Experiments.**{: .emph} NeurIPS 2023 (**spotlight**). [[PDF]](https://arxiv.org/abs/2305.17187){:target="_blank"} [[INFORMS Slides]](https://www.jessicad.ai/pdfs/clip-ogd__informs.pdf){:target="_blank"}
