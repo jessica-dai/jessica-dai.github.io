@@ -11,7 +11,7 @@ _much love to everyone I've gotten to work with_ 🙂
 
 ### Manuscripts
 
-- Eric Zhao, Jessica Dai, Pranjal Awasthi. **The Limits of Preference Data for Post-Training**. [[PDF]]({:target="_blank"}){:target="_blank"} [[Blog]](https://eric-zhao.com/blog/posttraining-distortion){:target="_blank"}
+- Eric Zhao, Jessica Dai, Pranjal Awasthi. **The Limits of Preference Data for Post-Training**{: .emph}. [[PDF]]({:target="_blank"}){:target="_blank"} [[Blog]](https://eric-zhao.com/blog/posttraining-distortion){:target="_blank"}
 
 ### Conference papers
 
