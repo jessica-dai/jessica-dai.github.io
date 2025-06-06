@@ -9,6 +9,10 @@ I’m interested in how individuals, groups, and AI systems might interact with 
 
 _much love to everyone I've gotten to work with_ 🙂
 
+### Manuscripts
+
+- Eric Zhao, Jessica Dai, Pranjal Awasthi. **The Limits of Preference Data for Post-Training**. [[PDF]]({:target="_blank"}){:target="_blank"} [[Blog]](https://eric-zhao.com/blog/posttraining-distortion){:target="_blank"}
+
 ### Conference papers
 
 - Jessica Dai, Paula Gradu, Inioluwa Deborah Raji, Benjamin Recht.  **From Individual Experience to Collective Evidence: A Reporting-Based Framework for Identifying Systemic Harms**{: .emph}. ICML 2025. [[PDF]](https://arxiv.org/abs/2502.08166){:target="_blank"}
