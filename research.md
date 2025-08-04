@@ -16,7 +16,7 @@ _much love to everyone I've gotten to work with_ 🙂
 
 ### Conference papers
 
-- Jessica Dai, Paula Gradu, Inioluwa Deborah Raji, Benjamin Recht.  **From Individual Experience to Collective Evidence: A Reporting-Based Framework for Identifying Systemic Harms**{: .emph}. ICML 2025. [[PDF]](https://arxiv.org/abs/2502.08166){:target="_blank"}
+- Jessica Dai, Paula Gradu, Inioluwa Deborah Raji, Benjamin Recht.  **From Individual Experience to Collective Evidence: A Reporting-Based Framework for Identifying Systemic Harms**{: .emph}. ICML 2025. [[PDF]](https://arxiv.org/abs/2502.08166){:target="_blank"} [[Blog]](https://www.argmin.net/p/individual-experiences-and-collective){:target="_blank"}
 - Jessica Dai, Nika Haghtalab, Eric Zhao _(alphabetical order)_. **Learning With Multi-Group Guarantees For Clusterable Subpopulations**{: .emph}. ICML 2025. [[PDF]](https://arxiv.org/abs/2410.14588v2){:target="_blank"}
 - Jessica Dai. **Beyond Personhood: Agency, Accountability, and the Limits of Anthropomorphic Ethical Analysis**{: .emph}. _Position Paper,_ ICML 2024 (**oral**). [[PDF]](https://arxiv.org/abs/2404.13861){:target="_blank"} [[Poster]](https://www.jessicad.ai/pdfs/agency_poster.pdf){:target="_blank"} [[Talk]](https://icml.cc/virtual/2024/oral/35574){:target="_blank"}
 - Jessica Dai, Bailey Flanigan, Nika Haghtalab, Meena Jagadeesan, Chara Podimata _(alphabetical order)_. **Can Probabilistic Feedback Drive User Impacts in Online Platforms?**{: .emph} AISTATS 2024. [[PDF]](https://arxiv.org/abs/2401.05304){:target="_blank"} [[Poster]](https://www.jessicad.ai/pdfs/probfeedback_poster.pdf){:target="_blank"}
@@ -24,7 +24,7 @@ _much love to everyone I've gotten to work with_ 🙂
 - Jessica Dai, Sohini Upadhyay, Ulrich Aivodji, Stephen H. Bach, Himabindu Lakkaraju. **Fairness via Explanation Quality:
 Evaluating Disparities in the Quality of Post hoc Explanations.**{: .emph} AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES) 2022. [[PDF]](https://arxiv.org/abs/2205.07277){:target="_blank"} 
 - Jessica Dai, Sina Fazelpour, Zachary C. Lipton. **Fair Machine Learning Under Partial Compliance.**{: .emph} AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES) 2021 (**oral**). Previously in Workshop on Consequential Decisions in Dynamic Environments at NeurIPS 2020 (**oral**); Workshop on Machine Learning for Economic Policy at NeurIPS 2020;
-Women in Machine Learning Workshop at NeurIPS 2020 (**oral**). [[PDF]](https://arxiv.org/abs/2011.03654){:target="_blank"} [[Video]](https://slideslive.com/38942278/fair-machine-learning-under-partial-compliance)
+Women in Machine Learning Workshop at NeurIPS 2020 (**oral**). [[PDF]](https://arxiv.org/abs/2011.03654){:target="_blank"} [[Talk]](https://slideslive.com/38942278/fair-machine-learning-under-partial-compliance)
 
 
 ### Workshop papers
