@@ -29,6 +29,7 @@ Women in Machine Learning Workshop at NeurIPS 2020 (**oral**). [[PDF]](https://a
 
 ### Workshop papers
 
+- Jessica Dai, Anwen Huang, Catherine Nasrallah, Rhiannon Croci, Hossein Soleimani, Sarah J. Pollet, Julia Adler-Milstein, Sara G. Murray, Jinoos Yazdany, Irene Y. Chen. **Patient Safety Risks from AI Scribes: Signals from End-User Feedback.**{: .emph}. Findings paper, Machine Learning for Health 2025. [[PDF]](https://openreview.net/forum?id=k3jB4d0IVG){:target="_blank"}
 - Jessica Dai and Eve Fleisig _(alphabetical order)_. **Mapping Social Choice Theory to RLHF**{: .emph}. Workshop on Reliable and Responsible Foundation Models at ICLR 2024. [[PDF]](https://arxiv.org/abs/2404.13038){:target="_blank"}
 - Kweku Kwegyir-Aggrey, A. Feder Cooper, Jessica Dai, John P. Dickerson, Keegan Hines, Suresh Venkatasubramanian. **Repairing Regressors for Fair Binary Classification at Any Decision Threshold.**{: .emph} Workshop on Algorithmic Fairness through the Lens of Time at NeurIPS 2023 (**oral**; PMLR proceedings). [[PDF]](https://arxiv.org/abs/2203.07490){:target="_blank"}
 - Jessica Dai, Sohini Upadhyay, Stephen H. Bach, Himabindu Lakkaraju. **What will it take to generate fairness-preserving explanations?**{: .emph} ICML Workshop on Theoretic Foundation, Criticism, and Application Trend of Explainable AI 2021. [[PDF]](https://arxiv.org/pdf/2106.13346.pdf){:target="_blank"} [[Poster]](https://github.com/ICML2021-XAI/Summary-Slides/blob/main/What%20will%20it%20take%20to%20generate%20fairness-preserving%20explanations.pdf)
