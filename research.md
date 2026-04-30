@@ -9,13 +9,10 @@ I’m interested in how individuals, groups, and AI systems might interact with 
 
 _much love to everyone I've gotten to work with_ 🙂
 
-### Manuscripts
-
-- Jessica Dai, Inioluwa Deborah Raji, Benjamin Recht, Irene Y. Chen. **Aggregated Individual Reporting for Post-Deployment Evaluation**{: .emph}. [[PDF]](https://arxiv.org/abs/2506.18133){:target="_blank"}
-- Eric Zhao, Jessica Dai, Pranjal Awasthi. **The Limits of Preference Data for Post-Training**{: .emph}. [[PDF]](https://arxiv.org/abs/2505.19964){:target="_blank"} [[Blog]](https://eric-zhao.com/blog/posttraining-distortion){:target="_blank"}
-
 ### Conference papers
 
+- Jessica Dai, Sean D.Garcia, Emma Pierson, Benjamin Recht, Nika Haghtalab. **Three Years of r/ChatGPT: Societal Impact Evaluations from Social Media Data**{: .emph}. ICML 2026. 
+- Jessica Dai, Inioluwa Deborah Raji, Benjamin Recht, Irene Y. Chen. **Aggregated Individual Reporting for Post-Deployment Evaluation**{: .emph}. ICML 2026. [[PDF]](https://arxiv.org/abs/2506.18133){:target="_blank"}
 - Jessica Dai, Paula Gradu, Inioluwa Deborah Raji, Benjamin Recht.  **From Individual Experience to Collective Evidence: A Reporting-Based Framework for Identifying Systemic Harms**{: .emph}. ICML 2025. [[PDF]](https://arxiv.org/abs/2502.08166){:target="_blank"} [[Blog]](https://www.argmin.net/p/individual-experiences-and-collective){:target="_blank"}
 - Jessica Dai, Nika Haghtalab, Eric Zhao _(alphabetical order)_. **Learning With Multi-Group Guarantees For Clusterable Subpopulations**{: .emph}. ICML 2025. [[PDF]](https://arxiv.org/abs/2410.14588v2){:target="_blank"}
 - Jessica Dai. **Beyond Personhood: Agency, Accountability, and the Limits of Anthropomorphic Ethical Analysis**{: .emph}. _Position Paper,_ ICML 2024 (**oral**). [[PDF]](https://arxiv.org/abs/2404.13861){:target="_blank"} [[Poster]](https://www.jessicad.ai/pdfs/agency_poster.pdf){:target="_blank"} [[Talk]](https://icml.cc/virtual/2024/oral/35574){:target="_blank"}
@@ -34,3 +31,7 @@ Women in Machine Learning Workshop at NeurIPS 2020 (**oral**). [[PDF]](https://a
 - Kweku Kwegyir-Aggrey, A. Feder Cooper, Jessica Dai, John P. Dickerson, Keegan Hines, Suresh Venkatasubramanian. **Repairing Regressors for Fair Binary Classification at Any Decision Threshold.**{: .emph} Workshop on Algorithmic Fairness through the Lens of Time at NeurIPS 2023 (**oral**; PMLR proceedings). [[PDF]](https://arxiv.org/abs/2203.07490){:target="_blank"}
 - Jessica Dai, Sohini Upadhyay, Stephen H. Bach, Himabindu Lakkaraju. **What will it take to generate fairness-preserving explanations?**{: .emph} ICML Workshop on Theoretic Foundation, Criticism, and Application Trend of Explainable AI 2021. [[PDF]](https://arxiv.org/pdf/2106.13346.pdf){:target="_blank"} [[Poster]](https://github.com/ICML2021-XAI/Summary-Slides/blob/main/What%20will%20it%20take%20to%20generate%20fairness-preserving%20explanations.pdf)
 - Jessica Dai and Sarah M. Brown. **Label Bias, Label Shift: Fair Machine Learning with Unreliable Labels.**{: .emph} Workshop on Consequential Decisions in Dynamic Environments at NeurIPS 2020; Women in Machine Learning Workshop at NeurIPS 2020. [[PDF]](https://dynamicdecisions.github.io/assets/pdfs/29.pdf)
+
+### Manuscripts
+
+- Eric Zhao, Jessica Dai, Pranjal Awasthi. **The Limits of Preference Data for Post-Training**{: .emph}. [[PDF]](https://arxiv.org/abs/2505.19964){:target="_blank"} [[Blog]](https://eric-zhao.com/blog/posttraining-distortion){:target="_blank"}
