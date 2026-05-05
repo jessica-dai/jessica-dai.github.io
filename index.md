@@ -2,7 +2,7 @@
 
 layout: homepage
 ---
-Hello! I am a PhD student in computer science at UC Berkeley. I'm extremely fortunate to be coadvised by [Ben Recht](https://people.eecs.berkeley.edu/~brecht/){:target="_blank"} and [Nika Haghtalab](https://people.eecs.berkeley.edu/~nika/){:target="_blank"}, and to be supported by a NSF GRFP. 
+Hello! I am a PhD candidate in computer science at UC Berkeley. I'm extremely fortunate to be coadvised by [Ben Recht](https://people.eecs.berkeley.edu/~brecht/){:target="_blank"} and [Nika Haghtalab](https://people.eecs.berkeley.edu/~nika/){:target="_blank"}, and to be supported by a NSF GRFP. 
 
 Right now, I'm especially interested in methods for post-deployment monitoring, e.g. via [individual reporting](https://arxiv.org/abs/2506.18133){:target="_blank"} or other online/sequential approaches. Reach out if you're thinking about anything related! 
 
