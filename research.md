@@ -11,7 +11,7 @@ _much love to everyone I've gotten to work with_ 🙂
 
 ### Conference papers
 
-- Jessica Dai, Sean D.Garcia, Emma Pierson, Benjamin Recht, Nika Haghtalab. **Three Years of r/ChatGPT: Societal Impact Evaluations from Social Media Data**{: .emph}. ICML 2026. 
+- Jessica Dai, Sean D.Garcia, Emma Pierson, Benjamin Recht, Nika Haghtalab. **Three Years of r/ChatGPT: Societal Impact Evaluations from Social Media Data**{: .emph}. ICML 2026. [[PDF]](https://arxiv.org/abs/2606.05750){:target="_blank"} [[Website]](https://rchatgpt-pulse.github.io/){:target="_blank"}
 - Jessica Dai, Inioluwa Deborah Raji, Benjamin Recht, Irene Y. Chen. **Aggregated Individual Reporting for Post-Deployment Evaluation**{: .emph}. ICML 2026. [[PDF]](https://arxiv.org/abs/2506.18133){:target="_blank"}
 - Jessica Dai, Paula Gradu, Inioluwa Deborah Raji, Benjamin Recht.  **From Individual Experience to Collective Evidence: A Reporting-Based Framework for Identifying Systemic Harms**{: .emph}. ICML 2025. [[PDF]](https://arxiv.org/abs/2502.08166){:target="_blank"} [[Blog]](https://www.argmin.net/p/individual-experiences-and-collective){:target="_blank"}
 - Jessica Dai, Nika Haghtalab, Eric Zhao _(alphabetical order)_. **Learning With Multi-Group Guarantees For Clusterable Subpopulations**{: .emph}. ICML 2025. [[PDF]](https://arxiv.org/abs/2410.14588v2){:target="_blank"}
