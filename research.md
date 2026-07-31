@@ -5,7 +5,7 @@
 layout: default
 ---
 
-I’m interested in how individuals, groups, and AI systems might interact with each other, and the \{statistical, algorithmic, ...\} questions that such interactions raise. I think of theory as (i) a means to provide tools for addressing such problems, and (ii) a language for understanding these ideas at a conceptual level. I’m especially excited when technical work can be informed by perspectives from sociology, political theory, philosophy, and other humanistic disciplines. 
+I’m interested in how individuals, groups, and AI systems might interact with each other, and the \{statistical, algorithmic, ...\} questions that such interactions raise. I think of theory as (i) a means to provide tools for addressing such problems, and (ii) a language for understanding these ideas at a conceptual level. I’m especially excited when technical work can be informed by perspectives from sociology, political theory, philosophy, and other humanistic disciplines. See also [Google Scholar](https://scholar.google.com/citations?hl=en&user=56vtsXMAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}
 
 _much love to everyone I've gotten to work with_ 🙂
 
@@ -23,7 +23,7 @@ Women in Machine Learning Workshop at NeurIPS 2020 (**oral**). [[PDF]](https://a
 
 ### Position papers
 
-_My position on position papers is that, as a category, they both reflect and perpetuate the thrashing chaos of a field in flux. Nevertheless, here are two that I've written about topics I care a lot about._ 
+_My position on position papers is that, as a category, they both reflect and perpetuate the thrashing chaos of our field. Nevertheless, here are two that I've written about topics I care a lot about._ 
 - Jessica Dai, Inioluwa Deborah Raji, Benjamin Recht, Irene Y. Chen. **Aggregated Individual Reporting for Post-Deployment Evaluation**{: .emph}.  _Position Paper,_ ICML 2026. [[PDF]](https://arxiv.org/abs/2506.18133){:target="_blank"}
 - Jessica Dai. **Beyond Personhood: Agency, Accountability, and the Limits of Anthropomorphic Ethical Analysis**{: .emph}. _Position Paper,_ ICML 2024 (**oral**). [[PDF]](https://arxiv.org/abs/2404.13861){:target="_blank"} [[Poster]](https://www.jessicad.ai/pdfs/agency_poster.pdf){:target="_blank"} [[Talk]](https://icml.cc/virtual/2024/oral/35574){:target="_blank"}
 
