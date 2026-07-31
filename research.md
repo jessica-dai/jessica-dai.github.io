@@ -5,7 +5,9 @@
 layout: default
 ---
 
-_much love to everyone I've gotten to work with_ 🙂 See also my [Google Scholar](https://scholar.google.com/citations?hl=en&user=56vtsXMAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}
+I think of theory as (i) a means to provide tools for addressing such problems, and (ii) a language for understanding these ideas at a conceptual level. I’m especially excited when technical work can be informed by perspectives from sociology, political theory, philosophy, and other humanistic disciplines. See also: my [Google Scholar](https://scholar.google.com/citations?hl=en&user=56vtsXMAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}.
+
+_much love to everyone I've gotten to work with_ 🙂
 
 ### Conference papers
 
