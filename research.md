@@ -5,7 +5,7 @@
 layout: default
 ---
 
-I’m especially excited when technical work can be informed by perspectives from sociology, political theory, philosophy, and other humanistic disciplines. I think of theory as (i) a means to provide tools for addressing such problems, and (ii) a language for understanding these ideas at a conceptual level. See also: my [Google Scholar](https://scholar.google.com/citations?hl=en&user=56vtsXMAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}.
+I’m especially excited when technical work can be informed by perspectives from sociology, political theory, philosophy, and other humanistic disciplines. I think of theory as (i) a means to provide tools for addressing such problems, and (ii) a language for understanding these ideas at a conceptual level. See also my [Google Scholar](https://scholar.google.com/citations?hl=en&user=56vtsXMAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}.
 
 _much love to everyone I've gotten to work with_ 🙂
 
@@ -18,8 +18,7 @@ _much love to everyone I've gotten to work with_ 🙂
 - Jessica Dai, Paula Gradu, Chris Harshaw _(alphabetical order)_. **Clip-OGD: An Experimental Design for Adaptive Neyman Allocation in Sequential Experiments.**{: .emph} NeurIPS 2023 (**spotlight**). [[PDF]](https://arxiv.org/abs/2305.17187){:target="_blank"} [[INFORMS Slides]](https://www.jessicad.ai/pdfs/clip-ogd__informs.pdf){:target="_blank"}
 - Jessica Dai, Sohini Upadhyay, Ulrich Aivodji, Stephen H. Bach, Himabindu Lakkaraju. **Fairness via Explanation Quality:
 Evaluating Disparities in the Quality of Post hoc Explanations.**{: .emph} AIES 2022. [[PDF]](https://arxiv.org/abs/2205.07277){:target="_blank"} 
-- Jessica Dai, Sina Fazelpour, Zachary C. Lipton. **Fair Machine Learning Under Partial Compliance.**{: .emph} AIES 2021 (**oral**). Also **orals** at NeurIPS 2020 Workshops on Consequential Decisions in Dynamic Environments and 
-Women in Machine Learning. [[PDF]](https://arxiv.org/abs/2011.03654){:target="_blank"} [[Talk]](https://slideslive.com/38942278/fair-machine-learning-under-partial-compliance)
+- Jessica Dai, Sina Fazelpour, Zachary C. Lipton. **Fair Machine Learning Under Partial Compliance.**{: .emph} AIES 2021 (**oral**). Also **orals** at WiML and Workshop on Consequential Decisions in Dynamic Environments at NeurIPS 2020. [[PDF]](https://arxiv.org/abs/2011.03654){:target="_blank"} [[Talk]](https://slideslive.com/38942278/fair-machine-learning-under-partial-compliance)
 
 ### Position papers
 
