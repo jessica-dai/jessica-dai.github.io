@@ -22,7 +22,7 @@ Evaluating Disparities in the Quality of Post hoc Explanations.**{: .emph} AIES 
 
 ### Position papers
 
-_My position on position papers is that, as a category, they both reflect and perpetuate the thrashing chaos of our field. Nevertheless, here are two that I've written about topics I care a lot about._ 
+_Jury's out on whether position paper tracks were a good idea. That said, here are two that I've written about topics I care a lot about._ 
 - Jessica Dai, Inioluwa Deborah Raji, Benjamin Recht, Irene Y. Chen. **Aggregated Individual Reporting for Post-Deployment Evaluation**{: .emph}.  _Position Paper,_ ICML 2026. [[PDF]](https://arxiv.org/abs/2506.18133){:target="_blank"}
 - Jessica Dai. **Beyond Personhood: Agency, Accountability, and the Limits of Anthropomorphic Ethical Analysis**{: .emph}. _Position Paper,_ ICML 2024 (**oral**). [[PDF]](https://arxiv.org/abs/2404.13861){:target="_blank"} [[Poster]](https://www.jessicad.ai/pdfs/agency_poster.pdf){:target="_blank"} [[Talk]](https://icml.cc/virtual/2024/oral/35574){:target="_blank"}
 
